@@ -7,11 +7,6 @@ layout: homepage
 I am a third-year PhD student in Computer Science and Industrial Engineering at Iowa State University, advised by [Dr. Jundi Liu](https://jundiliu.me/) and [Dr. Bowen Weng](https://www.cs.iastate.edu/people/bowen-weng). My research focuses on modeling human behavior through implicit and explicit feedback in interactions with autonomous agents. Another line of my work examines the relationship between humans’ objective behaviors and their subjective preferences when engaging with such agents.
 Before my PhD, I completed my BS at [Sharif University of Technology](https://en.sharif.edu/).
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
