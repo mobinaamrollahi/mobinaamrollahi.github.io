@@ -9,10 +9,18 @@ Before my PhD, I completed my BS at [Sharif University of Technology](https://en
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+<!-- Paper announcement: CVPR 2020 -->
+- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.  
+
+<!-- Conference hosting announcement -->
+- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!  
+
+<!-- Paper announcement: NeurIPS 2019 -->
+- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.  
+
+<!-- Paper announcement: CVPR 2019 -->
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.  
+
 
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
