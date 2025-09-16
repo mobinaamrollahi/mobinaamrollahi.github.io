@@ -22,7 +22,7 @@ Before my PhD, I completed my BS at [Sharif University of Technology](https://en
 <!-- - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.  --> 
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
 ## Beyond Research
 Outside the lab, when I’m not [running](https://www.strava.com/athletes/44255783), you’ll find me climbing or playing video games.
