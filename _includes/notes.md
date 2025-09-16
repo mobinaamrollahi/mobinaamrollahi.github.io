@@ -1,4 +1,4 @@
-<h2 id="notes" style="margin: 2px 0px -15px;">notes</h2>
+<h2 id="notes" style="margin: 2px 0px -15px;">Notes</h2>
 
 <div class="notes">
 <ol class="bibliography">
