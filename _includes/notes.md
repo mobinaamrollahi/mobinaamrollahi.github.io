@@ -1,6 +1,7 @@
 <h2 id="notes" style="margin: 2px 0px -15px;">Notes</h2>
 
 <p style="margin:10px 0px 20px;">
+  
   Over the course of my graduate studies, I found certain topics to be repeating over and over. 
   Hence, whenever I took a mathematics or CS course, I would take summary notes. 
   I thought it might be good to show them here; mainly to keep motivating myself to update them, 
