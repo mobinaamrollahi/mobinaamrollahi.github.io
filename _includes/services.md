@@ -1,10 +1,10 @@
 ## Services
 
 <h4 id="cymath" style="margin:0 10px 0;">
-  <a href="https://cymath.iastate.edu/" target="_blank" rel="noopener">CyMath</a>
+  
 </h4>
 <p style="margin:0 0 20px;">
-  Providing one-on-one math tutoring and mentorship to K–12 students.
+  <a href="https://cymath.iastate.edu/" target="_blank" rel="noopener">CyMath</a>: Providing one-on-one math tutoring and mentorship to K–12 students.
 </p>
 <!--
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
