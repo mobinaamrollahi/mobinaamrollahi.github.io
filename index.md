@@ -24,6 +24,7 @@ Before my PhD, I completed my BS at [Sharif University of Technology](https://en
 
 {% include_relative _includes/publications.md %}
 
+## Notes
 {% include_relative _includes/notes.md %}
 
 ## Services
