@@ -29,8 +29,7 @@ Before my PhD, I completed my BS at [Sharif University of Technology](https://en
 ## Notes
 Over the course of my graduate studies, I found certain topics to be repeating over and over. 
 Hence, whenever I took a mathematics or CS course, I would take summary notes. 
-I thought it might be good to show them here; mainly to keep motivating myself to update them, 
-and secondly for you to take a look and feel free to use them. 
+I thought it might be good to show them here for you to take a look and feel free to use them. 
 Let me know if you read any of them and find any mistake!
 {% include_relative _includes/notes.md %}
 
