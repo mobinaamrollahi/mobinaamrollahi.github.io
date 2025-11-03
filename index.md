@@ -33,7 +33,7 @@ Let me know if you read any of them and find any mistake!
 {% include_relative _includes/notes.md %}
 
 ## Services
-Providing one-on-one math tutoring and mentorship to K–12 students through [CyMath](https://cymath.iastate.edu/).
+I provide one-on-one math tutoring and mentorship to K–12 students through [CyMath](https://cymath.iastate.edu/).
 
 ## Beyond Research
 Outside the lab, when I’m not [running](https://www.strava.com/athletes/44255783), you’ll find me climbing or playing video games.
