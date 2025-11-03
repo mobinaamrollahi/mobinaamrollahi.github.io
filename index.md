@@ -8,7 +8,9 @@ I am a third-year PhD student in Computer Science and Industrial Engineering at 
 Before my PhD, I completed my BS at [Sharif University of Technology](https://en.sharif.edu/).
 
 ## News
-
+- **[Oct. 2025]** I will be at HFES 2025 in Chicago, presenting the work [Analysis and Modeling of Worker Trust in Automated Guided Vehicles for Manufacturing Workplace]([https://proceedings.neurips.cc/paper_files/paper/2023/hash/8ffb4e3118280a66b192b6f06e0e2596-Abstract-Conference.html](https://journals.sagepub.com/doi/epub/10.1177/10711813251357889)).
+- **[Aug. 2025]** Passed my PhD qualification exam!
+- **[May. 2025]** I will be at IISE 2025 in Atlanta, presenting our work "Analysis and Modeling of Worker Trust in Automated Guided Vehicles for Manufacturing Workplace"!
 <!-- Paper announcement: CVPR 2020 -->
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.  -->
 
