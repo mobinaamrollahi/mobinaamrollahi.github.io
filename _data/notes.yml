@@ -1,1 +1,5 @@
+main:
 
+  - title: Linear Algebra
+    pdf: https://github.com/mobinaamrollahi/2025-Spring-MATH-3170-Theory-of-Linear_Algebra/blob/main/Linear_Algebra_Ponderings.pdf
+    image: ./assets/img/linearalgebra.png
