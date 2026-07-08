@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <div class="teaser img-fluid z-depth-1" style="display:flex; flex-direction:column; gap:3px; overflow:hidden;">
+    <div class="teaser img-fluid z-depth-1" style="display:flex; flex-direction:column; gap:3px; overflow:hidden;width:210px;max-width:100%;">
       <img src="./assets/img/acm2026-1.png" style="width:100%;height:60px;object-fit:cover;">
       <img src="./assets/img/acm2026-2.png" style="width:100%;height:60px;object-fit:cover;">
     </div>
