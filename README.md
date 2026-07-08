@@ -1,16 +1,6 @@
-# The Minimal Light Theme
+# Mobina Amrollahi Homepage
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
-
-\[[Demo the theme](https://minimal-light-theme.yliu.me/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
- 
-*This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
-<br>
-*Feel free to use and share the source code anywhere you like.*
-
-An improved vision from [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[link](https://github.com/Xiao-Chenguang/minimal-light)]
-
-**The latest version of my homepage is available here: <br><https://github.com/yaoyao-liu/homepage>**
+This is the source code for my GitHub Pages homepage. It uses Jekyll and the Minimal Light theme.
 
 ## Features
 
@@ -25,28 +15,22 @@ An improved vision from [@Xiao-Chenguang](https://github.com/Xiao-Chenguang): [[
 
 ```
 .
-├── _data                    
-|   └── publications.yml                      # the YAML file for publications
-├── _includes                    
-|   ├── publications.md                       # the Markdown file for publications
-|   └── services.md                           # the Markdown file for services
-├── _layouts                  
-|   └── homepage.html                         #  the html template for the homepage 
+├── sections
+|   ├── about-me.md                           # About Me homepage section
+|   ├── news.md                               # News homepage section
+|   ├── publications.md                       # Publications homepage section
+|   ├── services.md                           # Services homepage section
+|   └── beyond-research.md                    # Beyond Research homepage section
+├── _layouts
+|   └── homepage.html                         # HTML template for the homepage
 ├── _sass
-|   ├── minimal-light.scss                    #  this file will be compiled into a CSS file to control the style of the page              
-|   └── minimal-light-no-dark-mode.scss       #  this file is similar to minimal-light.scss with the dark mode disabled
-├── assets                                    #  some files
-├── html_source_file                          #  compiled HTML files
-├── .gitignore                                #  this file specifies intentionally untracked files that Git should ignore
-├── CNAME                                     #  the custom domain, will be used by GitHub page sevice
-├── Gemfile                                   #  a RubyGems related file
-├── LICENSE                                   #  the license file
-├── README.md                                 #  the readme file (English)
-├── README_de.md                              #  the readme file (German)
-├── README_zh_Hans.md                         #  the readme file (Simplified Chinese)
-├── README_zh_Hant.md                         #  the readme file (Traditional Chinese)
-├── _config.yml                               #  the Jekyll configuration file, including some options of the page  
-└── index.md                                  #  the content of the index page, using Markdown
+|   ├── minimal-light.scss                    # Main stylesheet source
+|   └── minimal-light-no-dark-mode.scss       # Light-mode-only stylesheet source
+├── assets                                    # Images, CSS, JavaScript, and files
+├── CNAME                                     # Custom domain for GitHub Pages
+├── Gemfile                                   # Ruby dependencies for local builds
+├── _config.yml                               # Jekyll configuration
+└── index.md                                  # Homepage assembly file
 ```
 
 ## Getting Started
@@ -82,25 +66,14 @@ If you hope to edit any files (e.g., `index.md`), you still need to copy them to
 
 First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyllrb.com/). The install instructions can be found here: <https://jekyllrb.com/docs/installation/#guides>
 
-Then, clone this repository:
-
-```bash
-git clone https://github.com/yaoyao-liu/minimal-light.git
-cd minimal-light
-```
-Install and run:
+Install dependencies and run:
 
 ```bash
 bundle install
-bundle add webrick
-bundle exec jekyll server
+bundle exec jekyll serve
 ```
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the HTML files in `_site` folder.
-
-### Using the HTML version
-
-The compiled HTML files are available in the `html_source_file` folder. If you don't like Jekyll, you may directly edit and use the HTML version.
 
 ## Customizing
 
@@ -151,18 +124,17 @@ font: "Serif" # or "Sans Serif"
 # Please remove this if you don't use Google Analytics
 google_analytics: UA-111540567-4
   ```
-### Edit `index.md`
+### Edit homepage sections
 
-Create `index.md` and add your personal information. It supports **Markdown** and **HTML** syntax.
+The homepage content lives in `sections/`:
 
-### Edit included files
+- `sections/about-me.md`
+- `sections/news.md`
+- `sections/publications.md`
+- `sections/services.md`
+- `sections/beyond-research.md`
 
-There are two markdown files included in `index.md`. They are `_includes/publications.md` and `_includes/service.md`, respectively. These two files also support **Markdown** and **HTML** syntax. If you don't hope to include these two files, you may remove the following lines in `index.md`:
-https://github.com/yaoyao-liu/minimal-light/blob/b38070cd0b6bce45d8a885f3828549af8f82b7cb/index.md?plain=1#L21-L23
-
-If you hope to edit the publication list without changing the format, you may edit `_data/publications.yml`:
-https://github.com/yaoyao-liu/minimal-light/blob/77b1b3b31d4561091bcd739f37a2e1880e8b5ca5/_data/publications.yml#L3-L11
-
+`index.md` includes those files in order. Edit `index.md` only when you want to reorder, add, or remove homepage sections.
 
 ### Stylesheet
 
