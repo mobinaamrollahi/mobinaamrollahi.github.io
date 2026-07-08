@@ -6,6 +6,23 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <div style="display:flex; flex-direction:column; gap:6px;">
+      <img src="./assets/img/acm2026-1.png" class="teaser img-fluid z-depth-1" style="width:100%;height:auto;">
+      <img src="./assets/img/acm2026-2.png" class="teaser img-fluid z-depth-1" style="width:100%;height:auto;">
+    </div>
+    <abbr class="badge">ACM</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Measuring and Understanding Trust in Motion: Behavioral Archetypes in Human-Automated Guided Vehicle Interactions</div>
+    <div class="author"><strong>Mobina Amrollahi</strong>, Michael C. Dorneich, Jundi Liu</div>
+    <div class="periodical"><em>Accepted for publication, 2026.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/img/adaptivesystems.png" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
     <abbr class="badge">THMS</abbr>
   </div>
