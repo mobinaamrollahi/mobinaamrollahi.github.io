@@ -13,9 +13,12 @@
     <abbr class="badge">ACM</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Measuring and Understanding Trust in Motion: Behavioral Archetypes in Human-Automated Guided Vehicle Interactions</div>
+    <div class="title"><a href="https://dl.acm.org/doi/10.1145/3832775">Measuring and Understanding Trust in Motion: Behavioral Archetypes in Human-Automated Guided Vehicle Interactions</a></div>
     <div class="author"><strong>Mobina Amrollahi</strong>, Michael C. Dorneich, Jundi Liu</div>
     <div class="periodical"><em>Accepted for publication in ACM Transactions on Human-Robot Interaction <strong>(THRI)</strong>, 2026.</em></div>
+    <div class="links">
+      <a href="https://dl.acm.org/doi/pdf/10.1145/3832775" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener" style="font-size:12px;">PDF</a>
+    </div>
   </div>
 </div>
 </li>
